@@ -1,0 +1,12 @@
+# GET http://localhost:3000/hotels
+
+# GET http://localhost:3000/hotels/H00
+
+# DELETE http://localhost:3000/hotels/H00
+
+PATCH http://localhost:3000/hotels/H01
+content-type: application/json
+
+{
+    "likes": 91
+}

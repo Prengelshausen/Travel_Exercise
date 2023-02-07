@@ -1,0 +1,212 @@
+[
+    {
+        "id": "H00",
+        "name": "Apartment Hotel Painted Building",
+        "country": "Bahamas",
+        "email": "fjahank@webnode.com",
+        "likes": 7,
+        "picture": "apartment-hotel-painted-building.jpg",
+        "street": "74 Sloan Pass",
+        "hasSpecial": true
+    },
+    {
+        "id": "H01",
+        "name": "Banff Springs Hotel Mountains",
+        "country": "Bahamas",
+        "email": "tricciardellob@reddit.com",
+        "likes": 90,
+        "picture": "banff-springs-hotel-mountains.jpg",
+        "street": "9589 Spohn Lane",
+        "hasSpecial": false
+    },
+    {
+        "id": "H02",
+        "name": "Beach And Hotel",
+        "country": "Bahamas",
+        "email": "wvashchenko1@kickstarter.com",
+        "likes": 3,
+        "picture": "beach-and-hotel.jpg",
+        "street": "696 Hagan Terrace",
+        "hasSpecial": true
+    },
+    {
+        "id": "H03",
+        "name": "Bonaventure Hotel",
+        "country": "Bahamas",
+        "email": "tbrandom2@umn.edu",
+        "likes": 100,
+        "picture": "bonaventure-hotel.jpg",
+        "street": "621 Rockefeller Lane",
+        "hasSpecial": false
+    },
+    {
+        "id": "H04",
+        "name": "Caribbean Hotel",
+        "country": "Bahamas",
+        "email": "jsecret5@squidoo.com",
+        "likes": 2,
+        "picture": "caribbean-hotel.jpg",
+        "street": "16 Ruskin Place",
+        "hasSpecial": false
+    },
+    {
+        "id": "H05",
+        "name": "Country Hotel",
+        "country": "Bahamas",
+        "email": "fposnerr@fotki.com",
+        "likes": 178,
+        "picture": "country-hotel.jpg",
+        "street": "98 Pearson Hill",
+        "hasSpecial": true
+    },
+    {
+        "id": "H06",
+        "name": "Fairmont Le Chateau Frontenac",
+        "country": "Bahamas",
+        "email": "mbrugsmau@msn.com",
+        "likes": 149,
+        "picture": "fairmont-le-chateau-frontenac.jpg",
+        "street": "40 Gale Street",
+        "hasSpecial": true
+    },
+    {
+        "id": "H07",
+        "name": "Grunge Hotel",
+        "country": "California",
+        "email": "ccully3@mysql.com",
+        "likes": 206,
+        "picture": "grunge-hotel.jpg",
+        "street": "471 Eggendart Crossing",
+        "hasSpecial": false
+    },
+    {
+        "id": "H08",
+        "name": "Holiday Resort",
+        "country": "Bahamas",
+        "email": "cbroadwayw@sbwire.com",
+        "likes": 193,
+        "picture": "holiday-resort.jpg",
+        "street": "834 7th Point",
+        "hasSpecial": true
+    },
+    {
+        "id": "H09",
+        "name": "Holidays At The Pool Fuerteventura",
+        "country": "Bahamas",
+        "email": "sskivingtony@psu.edu",
+        "likes": 207,
+        "picture": "holidays-at-the-pool-fuerteventura.jpg",
+        "street": "12 Transport Point",
+        "hasSpecial": true
+    },
+    {
+        "id": "H10",
+        "name": "Hotel At Dubai",
+        "country": "United Arab Emirates",
+        "email": "mkidsleyl@studiopress.com",
+        "likes": 243,
+        "picture": "hotel-at-dubai.jpg",
+        "street": "155 Lakewood Gardens Park",
+        "hasSpecial": true
+    },
+    {
+        "id": "H11",
+        "name": "Hotel Courtyard And Seating",
+        "country": "Bahamas",
+        "email": "bfairchildo@shop-pro.jp",
+        "likes": 80,
+        "picture": "hotel-courtyard-and-seating.jpg",
+        "street": "9 Graceland Road",
+        "hasSpecial": false
+    },
+    {
+        "id": "H12",
+        "name": "Hotel In Batangas Beach Resort",
+        "country": "Philippines",
+        "email": "lkoppest@psu.edu",
+        "likes": 158,
+        "picture": "hotel-in-batangas-beach-resort.jpg",
+        "street": "226 Corben Hill",
+        "hasSpecial": true
+    },
+    {
+        "id": "H13",
+        "name": "Hotel With Mountains In Winter",
+        "country": "Swiss",
+        "email": "rgannicottg@businessweek.com",
+        "likes": 169,
+        "picture": "hotel-with-mountains-in-winter.jpg",
+        "street": "93193 Mifflin Lane",
+        "hasSpecial": false
+    },
+    {
+        "id": "H14",
+        "name": "Luxury Hotel Resort",
+        "country": "Bahamas",
+        "email": "emoulda@usda.gov",
+        "likes": 199,
+        "picture": "luxury-hotel-resort.jpg",
+        "street": "8 Vera Place",
+        "hasSpecial": true
+    },
+    {
+        "id": "H15",
+        "name": "Modern Hotel In Montenegro",
+        "country": "Montenegro",
+        "email": "ediamentp@yale.edu",
+        "likes": 204,
+        "picture": "modern-hotel-in-montenegro.jpg",
+        "street": "385 Grover Trail",
+        "hasSpecial": true
+    },
+    {
+        "id": "H16",
+        "name": "Raffles Hotel",
+        "country": "Bahamas",
+        "email": "jnuccitelli9@spotify.com",
+        "likes": 157,
+        "picture": "raffles-hotel.jpg",
+        "street": "49 Parkside Point",
+        "hasSpecial": true
+    },
+    {
+        "id": "H17",
+        "name": "Ski Resort In Valley",
+        "country": "Austria",
+        "email": "clestranges@columbia.edu",
+        "likes": 103,
+        "picture": "ski-resort-in-valley.jpg",
+        "street": "308 Troy Point",
+        "hasSpecial": true
+    },
+    {
+        "id": "H18",
+        "name": "Trader Hotel Swimming Pool",
+        "country": "Bahamas",
+        "email": "udanceye@issuu.com",
+        "likes": 114,
+        "picture": "trader-hotel-swimming-pool.jpg",
+        "street": "021 Longview Trail",
+        "hasSpecial": true
+    },
+    {
+        "id": "H19",
+        "name": "Tropical Hotel Resort",
+        "country": "Bahamas",
+        "email": "dwarn11@noaa.gov",
+        "likes": 153,
+        "picture": "tropical-hotel-resort.jpg",
+        "street": "323 Maple Wood Terrace",
+        "hasSpecial": false
+    },
+    {
+        "id": "H20",
+        "name": "Tropical Resort",
+        "country": "Bahamas",
+        "email": "fbrennandj@prweb.com",
+        "likes": 183,
+        "picture": "tropical-resort.jpg",
+        "street": "87 Transport Pass",
+        "hasSpecial": false
+    }
+]
